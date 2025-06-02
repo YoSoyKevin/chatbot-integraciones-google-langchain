@@ -1,0 +1,15 @@
+openai
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+pydantic
+unstructured
+tiktoken
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu
+boto3
+pandas
+requests
